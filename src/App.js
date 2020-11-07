@@ -20,6 +20,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1>Jenny Nguyen</h1>
+          <p>I am a</p>
           <Typed
             strings={[
               "Front-End Developer",
@@ -27,7 +28,7 @@ class App extends Component {
               "Software Developer",
             ]}
             typeSpeed={40}
-            backSpeed={50}
+            backSpeed={20}
             loop
           />
           <br />
@@ -36,8 +37,7 @@ class App extends Component {
           <section className="mw9 center cf pv5 ph7-l ph3">
             <h1 className="tc f3 ttu fw6 tracked mb4 avenir">About Me</h1>
             <p className="tc">
-              A creative and motivated developer who loves to build and design
-              modern and responsive websites.
+              Solution-driven Front-end Developer adept at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused websites using HTML, CSS, and JavaScript. Built products for desktop and mobile app users over 5+ years, meeting highest standards for web design, user experience, best practices and speed. Designed and developed web applications across multiple APIs, third-party integrations and databases.
             </p>
             <div className="ph3-ns">
               <div className="cf ph2-ns">
@@ -50,8 +50,7 @@ class App extends Component {
                   <div className="tc pv3">
                     <h3 className="tc ttu fw6 tracked avenir">Developer</h3>
                     <p>
-                      Focusing on responsive and clean web design and software
-                      applications
+                      Building clean and responsive websites and applications
                     </p>
                   </div>
                 </div>
@@ -63,7 +62,7 @@ class App extends Component {
                   />
                   <div className="tc pv3">
                     <h3 className="tc ttu fw6 tracked avenir">Designer</h3>
-                    <p>Making UX/UI simple and clean yet creative</p>
+                    <p>Simple and clean UX/UI</p>
                   </div>
                 </div>
                 <div className="fl w-100 w-third-ns pa4">
@@ -73,8 +72,7 @@ class App extends Component {
                       Passionate Learner
                     </h3>
                     <p>
-                      I love learning new technologies to help me grow as a
-                      better developer
+                      Always learning new technologies everyday!
                     </p>
                   </div>
                 </div>
@@ -144,7 +142,7 @@ class App extends Component {
               />
               <Project
                 title="SpeediShuttle"
-                description="Website redesign"
+                description="Website redesign mockup"
                 image={Speedi}
                 icons={["devicon-illustrator-plain colored"]}
                 alt="SpeediShuttle"
