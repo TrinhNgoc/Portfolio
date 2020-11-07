@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/waimeavalley.94151549.PNG"
   },
   {
-    "revision": "bd1784944165a52d769f",
+    "revision": "0a06176407eb6ccfdef9",
     "url": "/Portfolio/static/css/main.8dec981d.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/smart-brain.453e9e29.PNG"
   },
   {
-    "revision": "bd1784944165a52d769f",
-    "url": "/Portfolio/static/js/main.bd178494.chunk.js"
+    "revision": "0a06176407eb6ccfdef9",
+    "url": "/Portfolio/static/js/main.0a061764.chunk.js"
   },
   {
     "revision": "c6c829a3caedd17295f76fc6cb12d761",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/css/1.73108633.chunk.css"
   },
   {
-    "revision": "d8e6dcbc73d314bb287d275b80c612c6",
+    "revision": "0499939d7a2a63d2c60b2fadf48d4d1c",
     "url": "/Portfolio/index.html"
   }
 ];
